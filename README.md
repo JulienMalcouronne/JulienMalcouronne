@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JulienMalcouronne</h1>
+<h1 align="center">Hi 👋, I'm Julien Malcouronne</h1>
 <h3 align="center">A passionate fullstack web developer from France</h3>
 
 - 🔭 I’m currently working on [Festivout](https://www.festivout.com/)
