@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **malcouronnejulien@gmail.com**
 
-- ⚡ Fun fact **I've decided to learn code after meeting bugs in my previous work experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
