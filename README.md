@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julien Malcouronne</h1>
 <h3 align="center">A passionate fullstack web developer from France</h3>
 
-- 🔭 I’m currently working on [Festivout](https://www.festivout.com/)
+- 🔭 I’m currently working at ClimateSeed
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Ruby on Rails project**
-
-- 🤝 I’m looking for a job **As fullstack web developer**
-
-- 💬 Ask me about **FestivOut**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **malcouronnejulien@gmail.com**
 
